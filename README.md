@@ -9,7 +9,7 @@ WHAT THIS PROJECT DEMONSTRATES
 - Verifying connectivity between devices
 
 OVERVIEW 
-This project mimics a simple home network where there is a wireless router, a PC (preferably for gaming), a webcam (representing the use of IoT devices) and a laptop where the default wired card has been swapped with a wireless card to allow for wireless internet connection.
+- This project mimics a simple home network where there is a wireless router, a PC (preferably for gaming), a webcam (representing the use of IoT devices) and a laptop where the default wired card has been swapped with a wireless card to allow for wireless internet connection.
 
 WHAT I LEARNED 
-This project allowed me to visualize how to convert a wired connection for a client device into a wireless connection using Cisco Packet Tracer
+- This project allowed me to visualize how to convert a wired connection for a client device into a wireless connection using Cisco Packet Tracer
